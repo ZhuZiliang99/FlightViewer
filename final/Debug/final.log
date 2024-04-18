@@ -1,0 +1,56 @@
+﻿  plane.c
+D:\uni\3161\Final\final\plane.c(19,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\uni\3161\Final\final\plane.c(19,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+D:\uni\3161\Final\final\plane.c(42,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(76,23): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(100,68): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(101,68): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(102,69): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(103,71): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(111,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(112,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(297,14): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(301,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(302,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(304,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(305,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(263,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(406,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\uni\3161\Final\final\plane.c(432,47): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\uni\3161\Final\final\plane.c(433,49): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\uni\3161\Final\final\plane.c(434,48): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\uni\3161\Final\final\plane.c(520,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\uni\3161\Final\final\plane.c(546,49): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\uni\3161\Final\final\plane.c(547,51): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\uni\3161\Final\final\plane.c(548,50): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\uni\3161\Final\final\plane.c(632,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\uni\3161\Final\final\plane.c(658,52): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\uni\3161\Final\final\plane.c(659,54): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\uni\3161\Final\final\plane.c(660,53): warning C4244: '=': conversion from 'float' to 'GLubyte', possible loss of data
+D:\uni\3161\Final\final\plane.c(730,13): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+D:\uni\3161\Final\final\plane.c(810,13): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+D:\uni\3161\Final\final\plane.c(918,30): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(951,28): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(1001,23): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(1002,23): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(1041,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1041,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1050,24): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1050,32): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1095,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1086,24): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1144,23): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1148,23): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1154,24): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+D:\uni\3161\Final\final\plane.c(1155,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\uni\3161\Final\final\plane.c(1156,24): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+D:\uni\3161\Final\final\plane.c(1245,18): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1247,17): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1250,16): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1256,18): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1258,18): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1261,17): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\uni\3161\Final\final\plane.c(1299,33): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(1300,33): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\uni\3161\Final\final\plane.c(1333,18): warning C4113: 'void (__cdecl *)(unsigned char,int,int)' differs in parameter lists from 'void (__cdecl *)(int,int,int)'
+  final.vcxproj -> D:\uni\3161\Final\Debug\final.exe
